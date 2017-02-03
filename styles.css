@@ -1,0 +1,26 @@
+.letter{
+	padding: 5px;
+    display: inline-block;
+    width: 13px;
+    text-align: center;
+    border: .5px black solid;
+    height: 13px;
+}
+
+.temp-highlight {
+	background: yellow;
+}
+
+.final-highlight {
+	background: #4169E1;
+    color: white;
+    font-weight: bold;
+}
+
+#wordSearch {
+	text-align: center;
+}
+
+h1,h2 {
+	text-align: center;
+}
